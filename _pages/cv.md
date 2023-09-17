@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, Fudan University, 2017.6
-* M.S. in Jekyll, Fudan University, 2021.1
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Fudan University, 2012.9-2017.6
+  * B.S. in Life Sciences, GPA 3.03/4
+  * Advisor: Prof. Yao Li
+* Fudan University, 2017.9-2021.1
+  * M.S. in Software Engineering, GPA 3.34/4
+  * Supervisor: Prof. Yanchun Zhang
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Kuaishou Technology, 2021.3-present
+  * Search Technology Department
+  * C++ R&D Engineer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
