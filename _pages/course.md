@@ -74,3 +74,4 @@ Chemistry
 * **Organic Chemistry** (4 credits) (A-)
   * Basic organic chemistry, classification and reactions
 * **Analytical Chemistry** (2 credits) (B+)
+* **Physical Chemistry** (2 credits) (B)
