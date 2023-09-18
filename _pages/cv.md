@@ -35,13 +35,13 @@ Work experience
 
 Research Experience
 ======
-* **Constructing a Drug Recommendation System for Traditional Chinese Medicine Prescriptions Using Machine Learning and Deep Learning Technologies**
+* **Drug Recommendation System for Traditional Chinese Medicine Prescriptions by Machine Learning and Deep Learning**
   * PI: Yanchun Zhang
   * Software School of Fudan University
   * Project objective: Based on the actual prescription data of traditional Chinese medicine provided by the hospital, construct a recommendation system for prescription generation, with input as disease symptoms and output as relevant prescription drugs
   * Clean and organize the data of traditional Chinese medicine prescriptions and medical records provided by the hospital
-  * Utilizing multi-label classification combined with cost-sensitive SVM method to construct a drug recommendation  system based on text data of traditional Chinese medicine prescriptions
-  * Using the Transformer module proposed by Google and an end-to-end machine translation model, a traditional Chinese medicine prescription recommendation system is constructed using a question and answer system approach
+  * Utilizing **Bayes Classifier Chain(multi-label classification)** combined with **Cost-Sensitive SVM** method to construct a drug recommendation  system based on text data of traditional Chinese medicine prescriptions
+  * Using the **Transformer** module proposed by Google and an **end-to-end machine translation** model, a traditional Chinese medicine prescription recommendation system is constructed using a question and answer system approach
 * **Research on Cell Pathways Related to Prostate Cancer**
   * PI: Yao Li
   * Using experimental methods to study the regulatory pathways of long non coding RNA(lnc RNA) that may be involved in prostate cancer
@@ -52,7 +52,7 @@ Skills
 * **Programming**
   * C++: multi-threading programing, performance optimization,
   * Python: pythorch, tensorflow
-  * AI system: cuda, TensorRT, TVM
+  * High performance computing: cuda, TensorRT, TVM
 * **Algorithm**
   * Machine Learning
   * Deep Learning: CNN, RNN, Transformer, Bert
