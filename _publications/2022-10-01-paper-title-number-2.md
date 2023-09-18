@@ -1,0 +1,15 @@
+---
+title: "Bayesian networks and chained classifiers based on SVM for traditional chinese medical prescription generation"
+collection: publications
+permalink: /publication/2022-10-01-paper-title-number-2
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2022-10-01
+venue: 'World Wide Web'
+paperurl: 'https://link.springer.com/article/10.1007/s11280-021-00981-5'
+citation: 'Wu, Y., Pei, C., Ruan, C., Wang, R., Yang, Y., & Zhang, Y. (2022). Bayesian networks and chained classifiers based on SVM for traditional chinese medical prescription generation. World Wide Web, 1-22.'
+---
+This paper is about the number 2. The number 3 is left for future work.
+
+[Download paper here](https://link.springer.com/article/10.1007/s11280-021-00981-5)
+
+Wu, Y., Pei, C., Ruan, C., Wang, R., Yang, Y., & Zhang, Y. (2022). Bayesian networks and chained classifiers based on SVM for traditional chinese medical prescription generation. World Wide Web, 1-22.

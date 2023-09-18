@@ -9,31 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interest
+======
+* **Computational Structural Biology**: Protein structure prediction, Molecular dynamics
+* **Computer Science**: Deep Learning, High performance computing
+  
+
 Education
 ======
-* Fudan University, 2012.9-2017.6
+* **Fudan University**, 2012.9-2017.6
   * B.S. in Life Sciences, GPA 3.03/4
   * Advisor: Prof. Yao Li
-* Fudan University, 2017.9-2021.1
+* **Fudan University**, 2017.9-2021.1
   * M.S. in Software Engineering, GPA 3.34/4
   * Supervisor: Prof. Yanchun Zhang
 
 
 Work experience
 ======
-* Kuaishou Technology, 2021.3-present
+* **Kuaishou Technology**, 2021.3-present
   * Search Technology Department
   * C++ R&D Engineer
 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming**
+  * C++: multi-threading programing, performance optimization,
+  * Python: pythorch, tensorflow
+  * AI system: cuda, TensorRT, TVM
+* **Algorithm**
+  * Machine Learning
+  * Deep Learning: CNN, RNN, Transformer, Bert
+* **Englinsh**
+  * CET-6 : 498 (2017-6)
 
 Publications
 ======
@@ -41,7 +50,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -51,7 +60,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
