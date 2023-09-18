@@ -33,7 +33,7 @@ Work experience
 * **Kuaishou Technology**, Beijing, China, 2021.3-present
   * Search Technology Department
   * C++ R&D Engineer
-  * Search engine development and performance optimization, Linux C++ multithreaded program development, performance analysis optimization
+  * Search engine development and performance optimization, Linux C++ multi-threaded program development, performance analysis optimization
   * Deep learning inference performance optimization, operator inference acceleration of Bert models, AI compilation optimization based on TVM
 
 Research Experience
@@ -61,7 +61,7 @@ Skills
 * **Algorithm**
   * Machine Learning
   * Deep Learning: CNN, RNN, Transformer, Bert
-* **Englinsh**
+* **English**
   * CET-6 : 498 (2017-6)
 
 Publications
