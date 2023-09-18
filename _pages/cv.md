@@ -54,7 +54,7 @@ Skills
 ======
 * **Programming**
   * C++: multi-threading programing, performance optimization,
-  * Python: pythorch, tensorflow
+  * Python: pytorch, tensorflow
   * High performance computing: cuda, TensorRT, TVM
   * Linux
 * **Algorithm**
