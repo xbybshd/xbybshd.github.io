@@ -69,7 +69,7 @@ Chemistry
 ======
 * **General Chemistry A I** (2 credits) (B+)
   * Basic inorganic chemistry
-* **General Chemistry A I** (2 credits) (C+)
+* **General Chemistry A II** (2 credits) (C+)
   * basic theory and reactions
 * **Organic Chemistry** (4 credits) (A-)
   * Basic organic chemistry, classification and reactions
