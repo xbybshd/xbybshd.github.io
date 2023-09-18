@@ -47,6 +47,7 @@ Research Experience
   * Using the **Transformer** module proposed by Google and an **end-to-end machine translation** model, a traditional Chinese medicine prescription recommendation system is constructed using a question and answer system approach
 * **Research on Cell Pathways Related to Prostate Cancer**
   * PI: Yao Li
+  * Life Science School of Fudan University
   * Using experimental methods to study the regulatory pathways of long non coding RNA(lnc RNA) that may be involved in prostate cancer
   * Mainly participated in the preliminary literature research and experimental part (western blot, Rt-PCR)
   
