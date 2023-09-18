@@ -6,8 +6,11 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Courses Grade"
-    url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/   
+
+  - title: "Course"
+    url: /course/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
