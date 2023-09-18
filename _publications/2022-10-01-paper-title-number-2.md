@@ -6,7 +6,7 @@ excerpt: 'This paper is the expand of the conference paper in APWeb-WAIM 2020 fo
 date: 2022-10-01
 venue: 'World Wide Web'
 paperurl: 'https://link.springer.com/article/10.1007/s11280-021-00981-5'
-citation: 'Wu, Y., Pei, C., Ruan, C., Wang, R., Yang, Y., & Zhang, Y. (2022). Bayesian networks and chained classifiers based on SVM for traditional chinese medical prescription generation. World Wide Web, 1-22. (JCR-2, IF:3.7, Second author)'
+citation: 'Wu, Y., Pei, C., Ruan, C., Wang, R., Yang, Y., & Zhang, Y. (2022). Bayesian networks and chained classifiers based on SVM for traditional chinese medical prescription generation. World Wide Web, 1-22. (JCR-Q2, IF:3.7, Second author)'
 ---
 This paper is the expand of the conference paper in APWeb-WAIM 2020 for journal.
 
