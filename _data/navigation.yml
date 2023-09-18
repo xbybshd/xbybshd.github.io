@@ -9,6 +9,9 @@ main:
   # - title: "Teaching"
   #   url: /teaching/   
 
+  - title: "CV"
+    url: /cv/
+
   - title: "Course Learned"
     url: /course/    
     
@@ -18,8 +21,6 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
