@@ -30,7 +30,22 @@ Work experience
 * **Kuaishou Technology**, 2021.3-present
   * Search Technology Department
   * C++ R&D Engineer
+  * Search engine development and performance optimization, C++ multithreaded program development, performance analysis optimization
+  * Deep learning inference performance optimization, operator inference acceleration of Bert models, AI compilation optimization based on TVM
 
+Research Experience
+======
+* **Constructing a Drug Recommendation System for Traditional Chinese Medicine Prescriptions Using Machine Learning and Deep Learning Technologies**
+  * PI: Yanchun Zhang
+  * Software School of Fudan University
+  * Project objective: Based on the actual prescription data of traditional Chinese medicine provided by the hospital, construct a recommendation system for prescription generation, with input as disease symptoms and output as relevant prescription drugs
+  * Clean and organize the data of traditional Chinese medicine prescriptions and medical records provided by the hospital
+  * Utilizing multi-label classification combined with cost-sensitive SVM method to construct a drug recommendation  system based on text data of traditional Chinese medicine prescriptions
+  * Using the Transformer module proposed by Google and an end-to-end machine translation model, a traditional Chinese medicine prescription recommendation system is constructed using a question and answer system approach
+* **Research on Cell Pathways Related to Prostate Cancer**
+  * PI: Yao Li
+  * Using experimental methods to study the regulatory pathways of long non coding RNA(lnc RNA) that may be involved in prostate cancer
+  * Mainly participated in the preliminary literature research and experimental part (western blot, Rt-PCR)
   
 Skills
 ======
