@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 I am graduated from Fudan university and I am applying for Phd.
-My intersts are about computational structural biology, but I also like the math, physics, chemistry, computer science.
+My intersts are about computational structural biology, but I also like learning the math, physics, chemistry, computer science.
 
 If you want to know me better, you could see my [cv](https://xbybshd.github.io/cv/)

@@ -20,17 +20,17 @@ Course Learned
 
 Education
 ======
-* **Fudan University**, 2012.9-2017.6
+* **Fudan University**, Shanghai, China, 2012.9-2017.6
   * B.S. in Life Sciences, GPA 3.03/4
   * Advisor: Prof. Yao Li
-* **Fudan University**, 2017.9-2021.1
+* **Fudan University**, Shanghai, China, 2017.9-2021.1
   * M.S. in Software Engineering, GPA 3.34/4
   * Supervisor: Prof. Yanchun Zhang
 
 
 Work experience
 ======
-* **Kuaishou Technology**, 2021.3-present
+* **Kuaishou Technology**, Beijing, China, 2021.3-present
   * Search Technology Department
   * C++ R&D Engineer
   * Search engine development and performance optimization, C++ multithreaded program development, performance analysis optimization
