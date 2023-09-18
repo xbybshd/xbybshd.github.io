@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am graduated from Fudan university and I am a c++ programer in Kuaishou Technology. I am also applying for Phd now.
+I was graduated from Fudan university and I am a c++ programer in Kuaishou Technology. I am also applying for Phd now.
 
 My intersts are about computational structural biology, but I also like learning the math, physics, chemistry, computer science.
 
