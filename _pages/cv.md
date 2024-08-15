@@ -33,9 +33,9 @@ Work experience
 * **Kuaishou Technology**, Beijing, China, 2021.3-present
   * Search Technology Department
   * C++ R&D Engineer
-  * Search engine development and performance optimization, Linux C++ multi-threaded program development, cpu performance analysis optimization
-  * Search Engine Relevance Model Optimization (Bert model), inference acceleration on Bert, AI compilation optimization based on TVM
-  * Search Engine Posterior Model Engineering (Recommend system model, SIM)
+  * Search engine developing and performance optimization, Linux C++ multi-threaded program development, cpu performance analysis optimization
+  * Search engine relevance model optimization (Bert model), inference acceleration on Bert, AI compilation optimization based on TVM
+  * Search engine posterior model engineering (Recommend system model, SIM)
     * Participating the algorithm project "Query-dominant User Interest Network for Large-Scale Search Ranking. [CIKM 2023](https://dl.acm.org/doi/10.1145/3583780.3615022)
 
 Research Experience
