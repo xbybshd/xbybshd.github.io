@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Chaohan Pei"
   avatar           : "peofile-2020-6.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Beijing, China"
+  # bio              : "Your biography for the left-hand sidebar"
+  location         : "Hefei, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Ms2cK40AAAAJ&hl=zh-CN"
