@@ -11,7 +11,7 @@ redirect_from:
 
 Research Interest
 ======
-* **Computational Structural Biology**: Protein structure prediction, Molecular dynamics
+* **Computational Structural Biology**: Molecular dynamics, Protein structure prediction, CADD
 * **Computer Science**: Deep Learning, High performance computing
   
 Course Learned
@@ -33,12 +33,14 @@ Work experience
 * **Kuaishou Technology**, Beijing, China, 2021.3-present
   * Search Technology Department
   * C++ R&D Engineer
-  * Search engine development and performance optimization, Linux C++ multi-threaded program development, performance analysis optimization
-  * Deep learning inference performance optimization, operator inference acceleration of Bert models, AI compilation optimization based on TVM
+  * Search engine development and performance optimization, Linux C++ multi-threaded program development, cpu performance analysis optimization
+  * Search Engine Relevance Model Optimization (Bert model), inference acceleration on Bert, AI compilation optimization based on TVM
+  * Search Engine Posterior Model Engineering (Recommend system model, SIM)
+    * Participating the algorithm project "Query-dominant User Interest Network for Large-Scale Search Ranking. [CIKM 2023](https://dl.acm.org/doi/10.1145/3583780.3615022)
 
 Research Experience
 ======
-* **Drug Recommendation System for Traditional Chinese Medicine Prescriptions by Machine Learning and Deep Learning**
+* **Prescription Recommendation System for Traditional Chinese Medicine Prescriptions by Machine Learning and Deep Learning**
   * PI: Yanchun Zhang
   * Software School of Fudan University
   * Project objective: Based on the actual prescription data of traditional Chinese medicine provided by the hospital, construct a recommendation system for prescription generation, with input as disease symptoms and output as relevant prescription drugs
@@ -54,13 +56,15 @@ Research Experience
 Skills
 ======
 * **Programming**
-  * C++: multi-threading programing, performance optimization,
+  * C++: multi-threading programing, performance optimization
   * Python: pytorch, tensorflow
   * High performance computing: cuda, TensorRT, TVM
   * Linux
 * **Algorithm**
   * Machine Learning
   * Deep Learning: CNN, RNN, Transformer, Bert
+* **Compute Biology**
+  * GROMACS
 * **English**
   * CET-6 : 498 (2017-6)
 

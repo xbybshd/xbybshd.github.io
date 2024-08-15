@@ -38,6 +38,7 @@ Computer Science
 * **Operating System B** (2 credits) (A)
 * **Advanced Database** (3 credits) (B+) (Graduate)
   * Sql, database principles and performance tuning
+* **Distributed System**(3 credits) (B-) (Graduate)
 * **Fundamentals of Computer Systems I** (3 credits) (P) (Graduate Make-up Courses)
   * Principles of computer composition, coding theory, instruction pipeline, virtual memory,etc.
 
@@ -51,9 +52,6 @@ Mathematics
   * Set theory, combinatorics, graph theory, group, ring, field
 * **Discrete Mathematics II** (2 credits) (P) (Graduate Make-up Courses)
   * mathematical logic
-* Courses about our undergraduate teaching program not contained, but I self-learned:
-  * **Linear algebra**
-  * **Probability theory and mathematical statistics**
 
 Physics
 ======
@@ -62,7 +60,7 @@ Physics
 * **College Physics II** (4 credits) (A-)
   * Electromagnetics, Thermology, Optics
 * Self-Learned
-  * **Theoretical Mechanics**
+  * **Quantum Mechanics**
   * **Statistical Mechanics**
 
 Chemistry
