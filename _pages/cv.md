@@ -43,7 +43,7 @@ Research Experience
 * **Prescription Recommendation System for Traditional Chinese Medicine Prescriptions by Machine Learning and Deep Learning**
   * PI: Yanchun Zhang
   * Software School of Fudan University
-  * Project objective: Based on the actual prescription data of traditional Chinese medicine provided by the hospital, construct a recommendation system for prescription generation, with input as disease symptoms and output as relevant prescription drugs
+  * Project Purpose: Based on the actual prescription data of traditional Chinese medicine provided by the hospital, construct a recommendation system for prescription generation, with input as disease symptoms and output as relevant prescription drugs
   * Clean and organize the data of traditional Chinese medicine prescriptions and medical records provided by the hospital
   * Utilizing **Bayes Classifier Chain(multi-label classification)** combined with **Cost-Sensitive SVM** method to construct a drug recommendation  system based on text data of traditional Chinese medicine prescriptions
   * Using the **Transformer** module proposed by Google and an **end-to-end machine translation** model, a traditional Chinese medicine prescription recommendation system is constructed using a question and answer system approach
@@ -64,7 +64,7 @@ Skills
   * Machine Learning
   * Deep Learning: CNN, RNN, Transformer, Bert
 * **Compute Biology**
-  * GROMACS
+  * GROMACS, pymol
 * **English**
   * CET-6 : 498 (2017-6)
 
